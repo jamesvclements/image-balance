@@ -18,10 +18,7 @@ Search "Default Image Width" in Settings → Community Plugins → Browse.
 
 ## Install with an AI agent
 
-The plugin is ~90 lines with no build step. If you'd rather have your agent write it directly into your vault instead of installing a dependency, copy the prompt below.
-
-<details>
-<summary>Copy prompt</summary>
+The plugin is ~90 lines with no build step. If you'd rather have your agent write it directly into your vault instead of installing a dependency, give it this prompt:
 
 ```
 Create an Obsidian plugin called "default-image-width" in my vault's
@@ -41,8 +38,6 @@ It needs two files: manifest.json and main.js (no build step).
 
 Reference implementation: https://raw.githubusercontent.com/jamesvclements/default-image-width/main/main.js
 ```
-
-</details>
 
 ## Manual install
 
