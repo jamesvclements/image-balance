@@ -1,9 +1,9 @@
 {
-	"id": "default-image-width",
-	"name": "Default Image Width",
+	"id": "image-balance",
+	"name": "Image Balance",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Set a default pixel width on pasted and dropped images.",
+	"description": "Automatically sizes pasted images using constant visual area, so every image feels the same weight regardless of aspect ratio.",
 	"author": "James Clements",
 	"isDesktopOnly": false
 }
