@@ -3,7 +3,7 @@
 Obsidian plugin that automatically sizes pasted images so they all have the same visual weight, regardless of aspect ratio.
 Uses a constant-area algorithm: `width = defaultHeight × √(aspectRatio)`. A CSS fallback covers historical images that haven't been processed yet.
 
-https://github.com/user-attachments/assets/59e3d72e-8e4d-4f61-b4d5-b20314144050
+https://github.com/user-attachments/assets/daa512f8-21b8-48bf-a3e1-32fca7d1631f
 
 ## Install
 
@@ -23,7 +23,3 @@ Or manually: download `main.js` and `manifest.json` from the [latest release](ht
 
 - **Apply balance** — Recalculate and apply widths to all images in the current note.
 - **Remove balance** — Strip all width suffixes and disable CSS fallback.
-
-
-https://github.com/user-attachments/assets/dd902429-6c11-47c7-9476-387b6503f000
-
